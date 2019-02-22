@@ -1,1 +1,2 @@
-git+git@github.com:gem/oq-engine.git
+pip install --upgrade pip
+git+git://github.com/gem/oq-engine.git
