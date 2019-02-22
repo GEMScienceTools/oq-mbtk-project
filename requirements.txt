@@ -1,2 +1,1 @@
-pip install --upgrade pip
 git+git://github.com/gem/oq-engine.git
