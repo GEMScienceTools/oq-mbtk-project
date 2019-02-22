@@ -1,1 +1,2 @@
 git+git://github.com/gem/oq-engine.git
+git+git://github.com/gem/GEMScienceTools/oq-mbtk.git
