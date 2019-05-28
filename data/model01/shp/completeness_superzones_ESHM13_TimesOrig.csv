@@ -1,0 +1,119 @@
+"CSZ_ID","CSZ_NAME","CSZ","Mc","Time","Id"
+"A","Iceland","A-Iceland",4.1,2007,1
+"A","Iceland","A-Iceland",4.1,1990,1
+"A","Iceland","A-Iceland",4.5,1950,1
+"A","Iceland","A-Iceland",5.7,1930,1
+"A","Iceland","A-Iceland",5.9,1700,1
+"B","Offshore Portugal","B-Offshore Portugal",4.1,2007,2
+"B","Offshore Portugal","B-Offshore Portugal",4.1,1960,2
+"B","Offshore Portugal","B-Offshore Portugal",6.5,1700,2
+"C","Iberia","C-Iberia",4.1,2007,3
+"C","Iberia","C-Iberia",4.1,1950,3
+"C","Iberia","C-Iberia",4.9,1800,3
+"C","Iberia","C-Iberia",6.1,1500,3
+"C","Iberia","C-Iberia",6.5,1300,3
+"D","Betic region","D-Betic region",4.1,2007,4
+"D","Betic region","D-Betic region",4.1,1920,4
+"D","Betic region","D-Betic region",4.9,1500,4
+"D","Betic region","D-Betic region",5.5,1350,4
+"D","Betic region","D-Betic region",6.5,1200,4
+"E","France - Belgium","E-France - Belgium",3.7,2007,5
+"E","France - Belgium","E-France - Belgium",3.7,1960,5
+"E","France - Belgium","E-France - Belgium",4.1,1900,5
+"E","France - Belgium","E-France - Belgium",4.5,1750,5
+"E","France - Belgium","E-France - Belgium",5.1,1550,5
+"E","France - Belgium","E-France - Belgium",5.7,1450,5
+"F","British Isles","F-British Isles",3.7,2007,6
+"F","British Isles","F-British Isles",3.7,1965,6
+"F","British Isles","F-British Isles",4.1,1900,6
+"F","British Isles","F-British Isles",4.5,1500,6
+"G","Northern Europe","G-Northern Europe",3.7,2007,7
+"G","Northern Europe","G-Northern Europe",3.7,1970,7
+"G","Northern Europe","G-Northern Europe",4.1,1890,7
+"G","Northern Europe","G-Northern Europe",4.7,1800,7
+"G","Northern Europe","G-Northern Europe",5.5,1700,7
+"H","Central Europe","H-Central Europe",3.7,2007,8
+"H","Central Europe","H-Central Europe",3.7,1970,8
+"H","Central Europe","H-Central Europe",4.1,1900,8
+"H","Central Europe","H-Central Europe",4.3,1850,8
+"H","Central Europe","H-Central Europe",4.9,1780,8
+"H","Central Europe","H-Central Europe",5.3,1500,8
+"I","Alps","I-Alps",3.7,2007,9
+"I","Alps","I-Alps",3.7,1970,9
+"I","Alps","I-Alps",4.1,1900,9
+"I","Alps","I-Alps",4.5,1800,9
+"I","Alps","I-Alps",5.3,1500,9
+"I","Alps","I-Alps",6.1,1300,9
+"J","Northern Italy","J-Northern Italy",4.3,2007,10
+"J","Northern Italy","J-Northern Italy",4.3,1980,10
+"J","Northern Italy","J-Northern Italy",4.7,1920,10
+"J","Northern Italy","J-Northern Italy",4.9,1830,10
+"J","Northern Italy","J-Northern Italy",5.1,1530,10
+"J","Northern Italy","J-Northern Italy",5.5,1300,10
+"J","Northern Italy","J-Northern Italy",6.5,1200,10
+"K","Central Italy","K-Central Italy",4.5,2007,11
+"K","Central Italy","K-Central Italy",4.5,1960,11
+"K","Central Italy","K-Central Italy",4.9,1830,11
+"K","Central Italy","K-Central Italy",5.1,1725,11
+"K","Central Italy","K-Central Italy",5.5,1500,11
+"K","Central Italy","K-Central Italy",6.5,1200,11
+"L","Southern Italy","L-Southern Italy",4.7,2007,12
+"L","Southern Italy","L-Southern Italy",4.7,1980,12
+"L","Southern Italy","L-Southern Italy",4.9,1820,12
+"L","Southern Italy","L-Southern Italy",5.7,1650,12
+"L","Southern Italy","L-Southern Italy",6.5,1450,12
+"M","Sicily","M-Sicily",4.5,2007,13
+"M","Sicily","M-Sicily",4.5,1968,13
+"M","Sicily","M-Sicily",4.7,1900,13
+"M","Sicily","M-Sicily",5.1,1700,13
+"M","Sicily","M-Sicily",5.7,1500,13
+"M","Sicily","M-Sicily",6.1,1150,13
+"N","East Adriatic - Ionian","N-East Adriatic - Ionian",4.5,2007,14
+"N","East Adriatic - Ionian","N-East Adriatic - Ionian",4.5,1960,14
+"N","East Adriatic - Ionian","N-East Adriatic - Ionian",5.1,1900,14
+"N","East Adriatic - Ionian","N-East Adriatic - Ionian",6.1,1800,14
+"N","East Adriatic - Ionian","N-East Adriatic - Ionian",6.5,1600,14
+"O","Northern Balkans","O-Northern Balkans",4.3,2007,15
+"O","Northern Balkans","O-Northern Balkans",4.3,1900,15
+"O","Northern Balkans","O-Northern Balkans",5.1,1850,15
+"O","Northern Balkans","O-Northern Balkans",6.5,1650,15
+"P","Southern Balkans","P-Southern Balkans",4.3,2007,16
+"P","Southern Balkans","P-Southern Balkans",4.3,1975,16
+"P","Southern Balkans","P-Southern Balkans",4.5,1950,16
+"P","Southern Balkans","P-Southern Balkans",5.1,1890,16
+"P","Southern Balkans","P-Southern Balkans",5.9,1750,16
+"P","Southern Balkans","P-Southern Balkans",6.5,1650,16
+"Q","Aegean","Q-Aegean",4.1,2007,17
+"Q","Aegean","Q-Aegean",4.1,1970,17
+"Q","Aegean","Q-Aegean",5.1,1900,17
+"Q","Aegean","Q-Aegean",5.7,1650,17
+"Q","Aegean","Q-Aegean",6.5,1450,17
+"R","Marmara Region","R-Marmara Region",4.1,2007,18
+"R","Marmara Region","R-Marmara Region",4.1,1960,18
+"R","Marmara Region","R-Marmara Region",4.7,1930,18
+"R","Marmara Region","R-Marmara Region",5.3,1700,18
+"R","Marmara Region","R-Marmara Region",6.5,1250,18
+"S","Mediterranean background","S-Mediterranean background",4.1,2007,19
+"S","Mediterranean background","S-Mediterranean background",4.1,1980,19
+"S","Mediterranean background","S-Mediterranean background",4.9,1900,19
+"S","Mediterranean background","S-Mediterranean background",5.5,1800,19
+"T","Western Turkey","T-Western Turkey",4.1,2007,20
+"T","Western Turkey","T-Western Turkey",4.1,1980,20
+"T","Western Turkey","T-Western Turkey",4.9,1960,20
+"T","Western Turkey","T-Western Turkey",5.3,1920,20
+"T","Western Turkey","T-Western Turkey",5.7,1850,20
+"T","Western Turkey","T-Western Turkey",6.1,1800,20
+"U","Atlantic","U-Atlantic",4.3,2007,21
+"U","Atlantic","U-Atlantic",4.3,1990,21
+"U","Atlantic","U-Atlantic",4.7,1970,21
+"U","Atlantic","U-Atlantic",5.7,1930,21
+"X","Eastern Turkey","X-Eastern Turkey",4.1,2007,22
+"X","Eastern Turkey","X-Eastern Turkey",4.1,1980,22
+"X","Eastern Turkey","X-Eastern Turkey",4.5,1960,22
+"X","Eastern Turkey","X-Eastern Turkey",5.3,1925,22
+"X","Eastern Turkey","X-Eastern Turkey",5.7,1850,22
+"X","Eastern Turkey","X-Eastern Turkey",6.1,1800,22
+"Y","Cyprus","Y-Cyprus",4.1,2007,23
+"Y","Cyprus","Y-Cyprus",4.1,1990,23
+"Y","Cyprus","Y-Cyprus",4.9,1960,23
+"Y","Cyprus","Y-Cyprus",6.1,1700,23
