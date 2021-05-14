@@ -1,11 +1,10 @@
 #
 # Requirements file for sample oq mbt project
-# 2020.02.22
+# 2021.05.14
 
-# http://cdn.ftp.openquake.org/wheelhouse/linux/py36/GDAL-2.4.1-cp36-cp36m-manylinux1_x86_64.whl
-# http://cdn.ftp.openquake.org/wheelhouse/linux/py36/Rtree-0.8.3-cp36-cp36m-manylinux1_x86_64.whl 
+https://wheelhouse.openquake.org/v3/linux/py38/GDAL-3.2.2-cp38-cp38-manylinux1_x86_64.whl
+# gdal
 rtree
-gdal
 numpy 
 
 git+git://github.com/gem/oq-engine.git
