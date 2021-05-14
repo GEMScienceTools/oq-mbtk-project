@@ -6,7 +6,7 @@
 # http://cdn.ftp.openquake.org/wheelhouse/linux/py36/Rtree-0.8.3-cp36-cp36m-manylinux1_x86_64.whl 
 rtree
 gdal
-numpy==1.14.2 # required by gdal  
+numpy 
 
 git+git://github.com/gem/oq-engine.git
 git+git://github.com/GEMScienceTools/oq-mbtk.git
